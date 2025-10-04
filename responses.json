@@ -1,0 +1,22 @@
+{
+  "greeting": [
+    "Hey there! 😊 How can I help you today?",
+    "Hiya! What can I do for you?",
+    "Hello, friend! Ready to chat?"
+  ],
+  "farewell": [
+    "Take care! Hope to chat again soon! 👋",
+    "Bye for now! Stay awesome!",
+    "Catch you later! 🌟"
+  ],
+  "help": [
+    "Of course! I’m here for you. What do you need help with?",
+    "Sure thing! Just tell me what’s up.",
+    "Happy to help! Fire away your question."
+  ],
+  "unknown": [
+    "Hmm, I didn’t quite catch that. Could you rephrase it for me?",
+    "I’m not sure I understand. Want to try asking differently?",
+    "Oops, that one flew over my circuits. Can you say it another way?"
+  ]
+}
